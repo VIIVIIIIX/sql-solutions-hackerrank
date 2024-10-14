@@ -10,4 +10,4 @@ Solutions are organized by challenge category (e.g., SELECTs, JOINs, Aggregation
 
 ## License
 
-This repository is licensed under the MIT License. See [License](sql-solutions-hackerrank/LICENSE) for more details.
+This repository is licensed under the MIT License. See [License](./LICENSE) for more details.
