@@ -1,0 +1,9 @@
+--MS SQL SERVER
+
+DECLARE @VAR INT
+SET @VAR = 20
+WHILE @VAR > 0
+    BEGIN
+    PRINT(REPLICATE("* ", @VAR))
+    SET @VAR = @VAR - 1;
+    END
