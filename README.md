@@ -1,4 +1,4 @@
-# SQL Solutions HackerRank
+# SQL Solutions - HackerRank
 
 ## Introduction
 
