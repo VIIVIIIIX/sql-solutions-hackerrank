@@ -1,3 +1,5 @@
+-- MS SQL SERVER
+
 SELECT N,
        CASE
        WHEN P IS NULL THEN "Root"
