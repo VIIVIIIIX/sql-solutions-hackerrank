@@ -1,10 +1,8 @@
---MS SQL SERVER
-
 SELECT N,
-       CASE 
+       CASE
        WHEN P IS NULL THEN "Root"
        WHEN N IN (SELECT P FROM BST) THEN "Inner"
        ELSE "Leaf"
        END
-FROM BST 
-ORDER BY N
+FROM BST
+ORDER BY N ASC
