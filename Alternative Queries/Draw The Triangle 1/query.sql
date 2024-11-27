@@ -5,6 +5,6 @@ SET @VAR = 20
 
 WHILE @VAR > 0
     BEGIN
-    PRINT(REPLICATE("* ", @VAR)) -- The REPLICATE() function repeats a string a specified number of times.
+    PRINT(REPLICATE("* ", @VAR))
     SET @VAR = @VAR - 1
     END

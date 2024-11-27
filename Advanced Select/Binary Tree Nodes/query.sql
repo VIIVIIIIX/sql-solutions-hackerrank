@@ -7,4 +7,5 @@ SELECT N,
        ELSE "Leaf"
        END
 FROM BST
-ORDER BY N ASC
+ORDER BY
+N ASC
